@@ -24,4 +24,4 @@ A senha está presente no código, por isso n pode ser alterada sem q o mesmo se
 
 # Autor
 ### João Pedro Ferreira Dias
-https://www.linkedin.com/in/joaopfdias/
+https://www.linkedin.com/in/jotadiasss/
