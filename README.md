@@ -22,4 +22,6 @@ A aplicação consiste em um banco de dados com designe focado em pet shops
 
 A senha está presente no código, por isso n pode ser alterada sem q o mesmo seja alterado
 
+# Autor
+### João Pedro Ferreira Dias
 https://www.linkedin.com/in/joaopfdias/
